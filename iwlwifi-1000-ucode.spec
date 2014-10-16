@@ -1,6 +1,6 @@
 %define name iwlwifi-1000-ucode
 %define version 128.50.3.1
-%define release %mkrel 1
+%define release 2
 
 Summary: Intel PRO/Wireless 1000BGN microcode
 Name: %{name}
